@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "contactlistapp",
+  "version": "1.0.0",
+  "description": "MEAN Stack RESTful API CRUD \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D- \u001b[3~\u001b[\u001b[3~\u001b[C\u001b[C\u001b",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravi211195/contactlistapp.git"
+  },
+  "author": "ravi ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ravi211195/contactlistapp/issues"
+  },
+  "homepage": "https://github.com/Ravi211195/contactlistapp#readme"
+}
